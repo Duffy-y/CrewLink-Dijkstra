@@ -1,0 +1,27 @@
+{
+  "name": "crewlink-dijkstra",
+  "version": "1.0.0",
+  "description": "Dijkstra Algorithm for CrewLink",
+  "main": "Sound.js",
+  "dependencies": {
+    "@types/node": "^14.14.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile": "tsc .\\Sound.tsx --jsx react --lib es2016",
+    "run": "tsc .\\Sound.tsx --jsx react --lib es2016 && node .\\Sound.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duffy-y/CrewLink-Dijkstra.git"
+  },
+  "keywords": [
+    "dijkstra"
+  ],
+  "author": "Duffy-y",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Duffy-y/CrewLink-Dijkstra/issues"
+  },
+  "homepage": "https://github.com/Duffy-y/CrewLink-Dijkstra#readme"
+}
