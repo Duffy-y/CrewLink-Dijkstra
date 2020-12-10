@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "compile": "tsc .\\Sound.tsx --jsx react --lib es2016",
-    "run": "tsc .\\Sound.tsx --jsx react --lib es2016 && node .\\Sound.js"
+    "execute": "tsc .\\Sound.tsx --jsx react --lib es2016 && node .\\Sound.js"
   },
   "repository": {
     "type": "git",
