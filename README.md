@@ -24,7 +24,7 @@ yarn install
 ```
 3. Run the project
 ```sh
-yarn run
+yarn execute
 ```
 3. Take formatted array in BestPath.txt and use it in CrewLink code
 
